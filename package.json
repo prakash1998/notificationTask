@@ -57,7 +57,7 @@
     "rollup-plugin-peer-deps-external": "^2.2.0",
     "rollup-plugin-postcss": "^1.6.2",
     "rollup-plugin-url": "^1.4.0",
-    "semantic-release": "^15.13.31",
+    "semantic-release": "^17.2.3",
     "cz-conventional-changelog": "^3.0.2"
   },
   "dependencies": {
